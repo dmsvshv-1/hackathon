@@ -1,0 +1,5 @@
+From: noreply@prometheus.internal
+Subject: Alert: uptime < 99%
+
+Alert: uptime сервиса payment-api упал ниже 99% за последние 24 часа.
+Требуется проверка. Сгенерировано автоматически.

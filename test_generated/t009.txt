@@ -1,0 +1,5 @@
+Subject: Adobe Acrobat не открывает PDF
+From: l.zaharova@company.ru
+
+Adobe Acrobat не открывает файлы PDF после обновления.
+Ошибка при старте: «приложение не настроено». Прошу помочь.

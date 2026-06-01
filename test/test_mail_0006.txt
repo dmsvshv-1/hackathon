@@ -1,0 +1,6 @@
+From: test.sender@company.ru
+To: it-support@company.ru
+Date: 2026-06-01 10:00
+Subject: Ошибка 500 у всего отдела
+
+После релиза ошибка 500 появляется у всех сотрудников отдела.

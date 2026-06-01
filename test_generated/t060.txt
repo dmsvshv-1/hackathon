@@ -1,0 +1,5 @@
+From: noreply@monitoring.internal
+Subject: Alert: disk usage exceeded threshold
+
+Alert: disk usage на backup-server превысил допустимый порог (90%).
+Сгенерировано автоматически. Требуется вмешательство администратора.

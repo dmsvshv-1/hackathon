@@ -1,0 +1,6 @@
+From: test.sender@company.ru
+To: it-support@company.ru
+Date: 2026-06-01 10:00
+Subject: Партнер не может подключиться к API
+
+Внешний партнер сообщает об ошибке при подключении к нашему API.

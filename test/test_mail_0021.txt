@@ -1,0 +1,6 @@
+From: test.sender@company.ru
+To: it-support@company.ru
+Date: 2026-06-01 10:00
+Subject: Chrome зависает при загрузке PDF
+
+После обновления системы браузер Chrome зависает при загрузке PDF.

@@ -1,0 +1,6 @@
+From: test.sender@company.ru
+To: it-support@company.ru
+Date: 2026-06-01 10:00
+Subject: [INFO] Плановый отчет мониторинга
+
+Плановый отчет мониторинга за сутки. Uptime: 99.8%.

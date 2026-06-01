@@ -1,0 +1,6 @@
+From: test.sender@company.ru
+To: it-support@company.ru
+Date: 2026-06-01 10:00
+Subject: Пропал доступ к почте
+
+После перевода в другой отдел у сотрудника пропал доступ к почте.

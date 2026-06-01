@@ -1,0 +1,5 @@
+From: noreply@alertmanager.internal
+Subject: [WARNING] Healthcheck failed — api-gateway
+
+Warning: healthcheck для api-gateway завершился неудачно 3 раза подряд.
+Сервис может быть недоступен. Автоматическое уведомление.

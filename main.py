@@ -1,3 +1,5 @@
 from classifier import Classifier
 c = Classifier()
-print(c.classify("браузер зависает после обновления не открывает файлы"))
+print(c.output_classifier())
+print(c.output_classifier())
+print(c.output_classifier())

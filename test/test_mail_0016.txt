@@ -1,0 +1,6 @@
+From: test.sender@company.ru
+To: it-support@company.ru
+Date: 2026-06-01 10:00
+Subject: Восстановить доступ к BI-системе
+
+Просим восстановить доступ к BI-системе после изменения роли.

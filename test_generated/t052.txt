@@ -1,0 +1,5 @@
+From: noreply@grafana.internal
+Subject: [Grafana Alert] Disk usage critical
+
+Alert: disk usage на /dev/sda1 достиг 95%.
+Рекомендуется немедленно освободить место. Сгенерировано автоматически.

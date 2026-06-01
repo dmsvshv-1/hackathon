@@ -1,0 +1,6 @@
+From: test.sender@company.ru
+To: it-support@company.ru
+Date: 2026-06-01 10:00
+Subject: [WARNING] Disk usage > 85% на prod
+
+Автоматическое уведомление от системы мониторинга. Метрика: Disk usage 85%.

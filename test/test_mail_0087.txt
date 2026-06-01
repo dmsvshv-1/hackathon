@@ -1,0 +1,6 @@
+From: test.sender@company.ru
+To: it-support@company.ru
+Date: 2026-06-01 10:00
+Subject: VPN update
+
+Установите новый клиент по ссылке vpn-update.company.ru.cdn-service.net.

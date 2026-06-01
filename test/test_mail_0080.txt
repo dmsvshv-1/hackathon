@@ -1,0 +1,6 @@
+From: test.sender@company.ru
+To: it-support@company.ru
+Date: 2026-06-01 10:00
+Subject: Приглашение на обсуждение
+
+Приглашаю на обсуждение статуса работ.

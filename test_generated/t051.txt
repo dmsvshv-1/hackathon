@@ -1,0 +1,6 @@
+Subject: [Alert] CPU usage > 90% — server-prod-01
+From: noreply@monitoring.internal
+
+Автоматическое уведомление.
+Alert: CPU usage на server-prod-01 превысил 90% в течение 10 минут.
+Сгенерировано автоматически системой мониторинга.

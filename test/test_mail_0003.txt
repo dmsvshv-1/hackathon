@@ -1,0 +1,6 @@
+From: test.sender@company.ru
+To: it-support@company.ru
+Date: 2026-06-01 10:00
+Subject: Падает BI-система, работа остановлена
+
+BI-система по-прежнему недоступна. Нужен статус по инциденту.

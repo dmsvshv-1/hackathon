@@ -1,0 +1,5 @@
+From: noreply@zabbix.internal
+Subject: [Alert] Memory warning — db-server
+
+Warning: использование памяти на db-server превысило 85%.
+Healthcheck завершился с предупреждением. Сгенерировано автоматически.
